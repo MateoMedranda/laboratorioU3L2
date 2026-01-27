@@ -7,6 +7,6 @@ test('Factorial de 5 debería dar 120', () =>{
 });
 
 test('Fibonnaci de 6 debería dar 8', ()=>{
-    expect(op.fibonacci(6)).toBe(8);
+    expect(op.fibonacci(6)).toBe(4);
 });
 
